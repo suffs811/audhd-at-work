@@ -6,13 +6,16 @@ AuDHD (Autism + ADHD) is a neurotype that combines traits from both autism and A
 ### Sensory Overload
 - Scenario: An AuDHDer may struggle in a noisy open-plan office, finding it hard to concentrate due to background chatter, bright lights, or strong smells.
 - Impact: This can lead to fatigue, stress, or difficulty completing tasks.
-Communication Differences
+
+### Communication Differences
 - Scenario: An AuDHDer might miss subtle social cues in team meetings, such as sarcasm or implied instructions, leading to misunderstandings or unintentional errors.
 - Impact: They may appear unresponsive or overly direct, which can affect team dynamics.
-Executive Functioning
+
+### Executive Functioning
 - Scenario: An AuDHDer might struggle with prioritizing tasks, managing time, or switching between projects, especially if deadlines are unclear or instructions are vague.
 - Impact: Tasks may be completed last-minute or require additional reminders.
-Recommendations for Employers
+
+## Recommendations for Employers
 
 ### Sensory Accommodations
 - Offer a quiet workspace or noise-canceling headphones.
@@ -34,7 +37,7 @@ Strengths to Leverage
 • Creativity: Unique perspectives can lead to innovative solutions.
 • Honesty & Directness: AuDHDers often provide candid, valuable feedback.
 
-### Final Note
+## Final Note
 Small adjustments can make a significant difference in creating an inclusive, productive environment for AuDHD employees. Open dialogue and a willingness to adapt are key to unlocking their full potential.
 
 ### Learn More
