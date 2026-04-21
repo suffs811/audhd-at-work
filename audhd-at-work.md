@@ -21,18 +21,22 @@ AuDHD (Autism + ADHD) is a neurotype that combines traits from both autism and A
 - Offer a quiet workspace or noise-canceling headphones.
 - Allow flexibility in lighting (e.g., dimmer switches or natural light).
 - Provide options for remote work or flexible hours to manage sensory needs.
-Clear & Direct Communication
+
+### Clear & Direct Communication
 - Use explicit, written instructions (e.g., emails or checklists) to supplement verbal communication.
 - Avoid idioms or sarcasm; be literal and concise.
 - Encourage questions and provide regular feedback to ensure clarity.
-Support for Executive Functioning
+
+### Support for Executive Functioning
 - Break tasks into smaller, manageable steps with clear deadlines.
 - Use visual aids (e.g., flowcharts, color-coded calendars) to help with organization.
 - Allow flexibility in task order, as long as deadlines are met.
-Flexibility & Understanding
+
+### Flexibility & Understanding
 - Recognize that AuDHDers may need occasional breaks or adjustments to their routine.
 - Foster a culture where asking for help or clarification is encouraged, not stigmatized.
-Strengths to Leverage
+
+### Strengths to Leverage
 • Hyperfocus: When engaged, AuDHDers can produce high-quality work in their areas of interest.
 • Creativity: Unique perspectives can lead to innovative solutions.
 • Honesty & Directness: AuDHDers often provide candid, valuable feedback.
