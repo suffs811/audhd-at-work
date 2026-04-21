@@ -37,12 +37,12 @@ AuDHD (Autism + ADHD) is a neurotype that combines traits from both autism and A
 - Foster a culture where asking for help or clarification is encouraged, not stigmatized.
 
 ### Strengths to Leverage
-• Hyperfocus: When engaged, AuDHDers can produce high-quality work in their areas of interest.
-• Creativity: Unique perspectives can lead to innovative solutions.
-• Honesty & Directness: AuDHDers often provide candid, valuable feedback.
+- Hyperfocus: When engaged, AuDHDers can produce high-quality work in their areas of interest.
+- Creativity: Unique perspectives can lead to innovative solutions.
+- Honesty & Directness: AuDHDers often provide candid, valuable feedback.
 
 ## Final Note
-Small adjustments can make a significant difference in creating an inclusive, productive environment for AuDHD employees. Open dialogue and a willingness to adapt are key to unlocking their full potential.
+_Small adjustments can make a significant difference in creating an inclusive, productive environment for AuDHD employees. Open dialogue and a willingness to adapt are key to unlocking their full, unique potential._
 
 ### Learn More
 - https://auticon.com/blog/audhd-and-the-workplace/
